@@ -1,5 +1,7 @@
 stages:
   log_images:
     cmd: python log_images.py
-    params: 
-      - name_prefix
+    params:
+    - name_prefix
+plots:
+- dvclive/plots/images
