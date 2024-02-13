@@ -1,0 +1,5 @@
+stages:
+  log_images:
+    cmd: python log_images.py
+    params: 
+      - name_prefix
